@@ -1,3 +1,11 @@
+## Personal Blog
+a personal blog been made by using laravel framework to understand how CRUD works in laraval 5.5
+
+here a pictures of how does the blog looks like
+
+ps:/in progresss
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
